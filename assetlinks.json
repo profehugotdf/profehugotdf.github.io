@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.profehugo.rumbo",
+      "sha256_cert_fingerprints": ["E1:0B:FD:01:08:71:6D:50:DB:6F:E2:B5:93:86:23:85:B8:1E:C7:72:C8:54:32:F1:0D:75:4D:B0:26:C9:EB:36"]
+    }
+  }
+]
